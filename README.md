@@ -1,3 +1,7 @@
+# Note From Me
+
+This fork won't work pretty much anywhere else lol. I created it just to write a binary ebuild for my laptop cuz writing a source ebuild is a bit more difficult (esp since pycargoebuild can't work out of the box for ALVR). Why didn't I just create a patch set? Well cause I don't have a working ebuild and don't feel figuring out how the other guy did it (https://github.com/TheGreatMcPain/TheGreatMcPain-overlay/tree/master/media-libs/alvr).
+
 <p align="center"> <img width="500" src="resources/alvr_combined_logo_hq.png"/> </p>
 
 # ALVR - Air Light VR
